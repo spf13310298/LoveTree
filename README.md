@@ -9,7 +9,7 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "亲爱的雯雯",
+        "亲爱的xxx",
         "花开一季，有落红为证",
         "逝去的岁月，如何能托于烟尘",
         "你的浅笑，是我永生眷恋",
@@ -41,8 +41,7 @@ https://zhuanlan.zhihu.com/p/72907840
 喜欢的话关注一下[霸都丶傲天](https://github.com/ajlovechina)呗~  \
 定期更新一下爱情网页模板,简历模板,知识笔记,PDF书籍,原创深度技术分享等 :heart:
 
-* 知乎:[霸都丶傲天](https://www.zhihu.com/people/AJLoveChina)
-* Github:[霸都丶傲天](https://github.com/ajlovechina)
+
 
 ## 链接
 * [第一期:爱情树 🌴将相爱的时刻永远珍藏 （微信，QQ可完美查看）](https://github.com/AJLoveChina/LoveTree)
